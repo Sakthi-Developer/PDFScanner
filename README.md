@@ -6,10 +6,10 @@ The PDF Scanner App is an Android application designed to create PDF files by sc
 
 ## ScreenShorts
 
-<p align="center">
-    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/b9976591-269a-46e5-befd-53747f26a5f3" width="200" style="margin: 0 10px;">
-    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/229f8418-897e-4e9e-be16-0d9c9935a825" width="200" style="margin: 0 10px;">
-    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/16b8e12d-81c5-4869-8993-d9b1d6f9e57a" width="200" style="margin: 0 10px;">
+<p align="start">
+    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/b9976591-269a-46e5-befd-53747f26a5f3" width="200" style="margin: 0 20px;">
+    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/229f8418-897e-4e9e-be16-0d9c9935a825" width="200" style="margin: 0 20px;">
+    <img src="https://github.com/Sakthi-Developer/PDFScanner/assets/109301864/16b8e12d-81c5-4869-8993-d9b1d6f9e57a" width="200" style="margin: 0 20px;">
 </p>
 ## Features
 
