@@ -89,18 +89,9 @@ The app relies on several libraries and tools:
 - **ViewModel and LiveData:** For managing UI-related data.
 - **ML Kit:** For image processing and enhancement.
 
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-For any inquiries or support, please contact us at [support@pdfscannerapp.com](mailto:support@pdfscannerapp.com).
+For any inquiries or support, please contact us at [sakthir.developer@gmail.com](mailto:sakthir.developer@gmail.com).
 
 ---
 
